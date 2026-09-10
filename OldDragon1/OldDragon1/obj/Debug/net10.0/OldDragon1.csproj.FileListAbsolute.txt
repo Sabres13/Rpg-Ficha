@@ -1,0 +1,15 @@
+C:\Users\nicol\source\repos\OldDragon1\OldDragon1\obj\Debug\net10.0\OldDragon1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\source\repos\OldDragon1\OldDragon1\obj\Debug\net10.0\OldDragon1.AssemblyInfoInputs.cache
+C:\Users\nicol\source\repos\OldDragon1\OldDragon1\obj\Debug\net10.0\OldDragon1.AssemblyInfo.cs
+C:\Users\nicol\source\repos\OldDragon1\OldDragon1\obj\Debug\net10.0\OldDragon1.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\OldDragon1\OldDragon1\bin\Debug\net10.0\OldDragon1.exe
+C:\Users\nicol\source\repos\OldDragon1\OldDragon1\bin\Debug\net10.0\OldDragon1.deps.json
+C:\Users\nicol\source\repos\OldDragon1\OldDragon1\bin\Debug\net10.0\OldDragon1.runtimeconfig.json
+C:\Users\nicol\source\repos\OldDragon1\OldDragon1\bin\Debug\net10.0\OldDragon1.dll
+C:\Users\nicol\source\repos\OldDragon1\OldDragon1\bin\Debug\net10.0\OldDragon1.pdb
+C:\Users\nicol\source\repos\OldDragon1\OldDragon1\obj\Debug\net10.0\OldDragon1.dll
+C:\Users\nicol\source\repos\OldDragon1\OldDragon1\obj\Debug\net10.0\refint\OldDragon1.dll
+C:\Users\nicol\source\repos\OldDragon1\OldDragon1\obj\Debug\net10.0\OldDragon1.pdb
+C:\Users\nicol\source\repos\OldDragon1\OldDragon1\obj\Debug\net10.0\OldDragon1.genruntimeconfig.cache
+C:\Users\nicol\source\repos\OldDragon1\OldDragon1\obj\Debug\net10.0\ref\OldDragon1.dll
+C:\Users\nicol\source\repos\OldDragon1\OldDragon1\obj\Debug\net10.0\OldDragon1.csproj.Up2Date
